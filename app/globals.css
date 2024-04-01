@@ -11,3 +11,15 @@
 .space-links:hover {
   letter-spacing: 1px;
 }
+
+.footer-icons {
+  transition: 0.5s;
+}
+
+.footer-icons:hover {
+  transform: translateY(-8px);
+}
+
+.footer-icons:hover > .sepiaa {
+  filter: invert(100.1);
+}

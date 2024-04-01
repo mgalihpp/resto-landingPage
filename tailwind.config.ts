@@ -21,7 +21,7 @@ const config: Config = {
         lightblack: "#333333",
         textbl: "#363636",
         footerlinks: "rgba(54,54,54,0.9)",
-        bodertop: "rgba(105,120,131,0.16)",
+        bordertop: "rgba(105,120,131,0.16)",
         darkgrey: "rgba(44,9,11,0.8)",
       },
     },
